@@ -7,11 +7,12 @@ Created_Date=1
 Execution_Level=2
 [VERSION]
 Set_Version_Info=1
+Company_Name=lifegrain
 File_Description=Helps your Minecraft Afk needs
 File_Version=0.4.8.0
 Inc_File_Version=0
 Product_Name=Minecraft Helper
-Product_Version=1.1.30.3
+Product_Version=1.1.32.0
 Set_AHK_Version=1
 [ICONS]
 Icon_1=D:\-\Picture\Icon\App Icon\Helper_ico.ico
