@@ -3,6 +3,8 @@
 
 [AHK2EXE]
 Exe_File=%In_Dir%\Helper_v0.4.8.exe
+Created_Date=1
+Execution_Level=2
 [VERSION]
 Set_Version_Info=1
 File_Description=Helps your Minecraft Afk needs
